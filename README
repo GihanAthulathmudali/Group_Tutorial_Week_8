@@ -1,0 +1,15 @@
+Week 8 - Group Tutorial
+Please create a new branch from develop branch before doing any changes to the sourse code.
+
+Please create different branches for your tasks.
+
+Naming Conventions for Branches
+Example: (author)/(branch-name/module_name)
+
+Before pushing your branch please pull from remote develop branch for getting incomming changes.
+
+After commiting your changes push the branch to the remote directory.
+
+Do not push to the master.
+
+After pushing your branch please create a pull request to the master branch.
